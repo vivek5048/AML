@@ -1,2 +1,2 @@
 # AML
-AML Activities JU
+AML Lab Activities JU
